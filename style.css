@@ -1,0 +1,19 @@
+div{
+    margin-top: 70px;
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 450px;
+    border: 2px solid rgb(248, 248, 247);
+}
+html{
+    background-color: rgb(93, 151, 217);
+}
+h1{
+    font-family: 'Rubik Puddles', cursive;
+}
+p{
+    font-family: 'Satisfy', cursive; 
+}
